@@ -1,0 +1,10 @@
+Beautiful Soup, 
+lxml
+numpy
+pandas
+json
+geopy.geocoders
+Nominatim
+matplotlib
+k-means
+folium
